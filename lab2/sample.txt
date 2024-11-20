@@ -1,0 +1,1 @@
+This is a sample file.It contains several words.Counting the number of the words is the task.
